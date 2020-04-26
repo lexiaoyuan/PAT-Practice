@@ -16,7 +16,7 @@ import java.util.Scanner;
  */
 
 
-public class Topic6_1 {
+public class Question6_1 {
 
 	private static void PrintN(int N) {
 		for (int i = 1; i <= N; i++) {

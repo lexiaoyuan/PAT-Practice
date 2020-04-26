@@ -20,7 +20,7 @@ import java.util.Scanner;
  * 【题目地址】：https://pintia.cn/problem-sets/14/problems/738
  *
  */
-public class Topic6_6 {
+public class Question6_6 {
 	
 	private static class Node {
 		int Data;

@@ -1,6 +1,5 @@
 package pat.basic;
 
-import java.io.InputStream;
 import java.text.DecimalFormat;
 import java.util.Arrays;
 import java.util.Scanner;
@@ -18,7 +17,7 @@ import java.util.Scanner;
  * 【题目地址】：https://pintia.cn/problem-sets/14/problems/743
  *
  */
-public class Topic6_11 {
+public class Question6_11 {
 
 	private static final int MAXN = 1000;
 	

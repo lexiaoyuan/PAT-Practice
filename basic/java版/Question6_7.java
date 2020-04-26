@@ -14,7 +14,7 @@ import java.util.Scanner;
  * 【题目地址】：https://pintia.cn/problem-sets/14/problems/739
  *
  */
-public class Topic6_7 {
+public class Question6_7 {
 
 	private static int IsTheNumber(final int N) {
 		if (N < 100 || ((int)Math.sqrt(N) * (int)Math.sqrt(N) - N) != 0) {

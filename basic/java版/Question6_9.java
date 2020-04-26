@@ -14,7 +14,7 @@ import java.util.Scanner;
  * 【题目地址】：https://pintia.cn/problem-sets/14/problems/741
  *
  */
-public class Topic6_9 {
+public class Question6_9 {
 
 	private static int Count_Digit(final int N, final int D) {
 		int n = N;

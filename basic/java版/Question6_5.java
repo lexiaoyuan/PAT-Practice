@@ -15,7 +15,7 @@ import java.util.Scanner;
  *
  * 【题目地址】：https://pintia.cn/problem-sets/14/problems/737
  */
-public class Topic6_5 {
+public class Question6_5 {
 
 	private static final int MAXN = 10;
 	

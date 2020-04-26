@@ -14,7 +14,7 @@ import java.util.Scanner;
  * 【题目网址】：https://pintia.cn/problem-sets/14/problems/742
  *
  */
-public class Topic6_10 {
+public class Question6_10 {
 
 	private static void Print_Factorial(final int N) {
 		

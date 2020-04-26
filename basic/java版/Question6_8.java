@@ -13,7 +13,7 @@ import java.util.Scanner;
  *
  * 【题目地址】：https://pintia.cn/problem-sets/14/problems/740
  */
-public class Topic6_8 {
+public class Question6_8 {
 
 	private static int Factorial(final int N) {
 		int product = 1;
