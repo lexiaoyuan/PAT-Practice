@@ -12,6 +12,6 @@ PAT网址：[https://www.patest.cn/practice](https://www.patest.cn/practice)
 
 **注：C和C++程序是通过Visual Studio 2019编写，在VS2019中推荐将C语言中的`scanf()`替换为`scanf_s()`，参数格式是一样的，只是后者更加安全！所以在提交代码或使用其他不支持`scanf_s()`时将其改为原来的`scanf()`即可。**
 
-注：java代码上传时需//TODO
+注：java代码再测试平台上传时需要将类名改为Main，才可以通过
 
 随便上传点东西，暂时没有时间更新了，但是又不想更新断了
